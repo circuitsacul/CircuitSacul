@@ -1,6 +1,7 @@
 [![Circuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Some of my projects:
+ - https://github.com/CircuitSacul/mCoding-Bot
  - https://github.com/CircuitsBots/Starboard-2
  - https://github.com/CircuitsBots/discord-ext-wizards
  - https://github.com/CircuitsBots/discord-ext-prettyhelp
