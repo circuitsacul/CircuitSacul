@@ -1,4 +1,6 @@
 [![Circuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Some of my projects:
  - https://github.com/CircuitSacul/mCoding-Bot
