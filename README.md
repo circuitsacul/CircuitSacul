@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitSacul&repo=mCoding-bot&theme=dracula)](https://github.com/CircuitSacul/mCoding-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard-2&theme=dracula)](https://github.com/CircuitsBots/Starboard-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=discord-ext-wizards&theme=dracula)](https://github.com/CircuitsBots/discord-ext-wizards)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=discord-ext-prettyhelp&theme=dracula)](https://github.com/CircuitsBots/discord-ext-wizards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=discord-ext-prettyhelp&theme=dracula)](https://github.com/CircuitsBots/discord-ext-prettyhelp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=discord-i18n&theme=dracula)](https://github.com/CircuitsBots/discord-i18n)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=asyncpg-discordpy&theme=dracula)](https://github.com/CircuitsBots/asyncpg-discordpy)
 
