@@ -1,4 +1,6 @@
 # Hello, I'm Circuit.
+I'm 16 years old, and I've been programming since I was 11. I code mostly in python, I know a decent ammount of HTML/CSS/JavaScript (python > js btw). I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend most of my free time working on.
+
 ![Circuit's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
