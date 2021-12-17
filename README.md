@@ -9,8 +9,8 @@ On a side note, following the discontinuation of discord.py and the new features
 ## Some of my projects/projects I've helped on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard&theme=dracula)](https://github.com/CircuitsBots/Starboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard-2&theme=dracula)](https://github.com/CircuitsBots/Starboard-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard-2&theme=dracula)](https://github.com/TrigonDev/apgorm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard-2&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=apgorm&theme=dracula)](https://github.com/TrigonDev/apgorm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=hikari-clusters&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
 
 
 My Discord username is **Circuit#5585**. Note that I will **NOT** accept friend requests. If you wish to contact me, please join [this server](https://discord.gg/dGAzZDaTS9) first.
