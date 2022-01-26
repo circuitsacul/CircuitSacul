@@ -12,7 +12,7 @@ My Discord username is **Circuit#3397**. Note that I will **NOT** accept friend 
 
 ## Some of my projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard&theme=dracula)](https://github.com/CircuitsBots/Starboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitsBots&repo=Starboard-2&theme=dracula)](https://github.com/CircuitsBots/Starboard-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Starboard&theme=dracula)](https://github.com/TrigonDev/Starboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=apgorm&theme=dracula)](https://github.com/TrigonDev/apgorm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=hikari-clusters&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
 
