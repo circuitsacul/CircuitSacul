@@ -1,7 +1,6 @@
-# Hello, I'm Circuit.
-I'm 16 years old, and I've been programming since I was 11. I code mostly in python, I know a decent ammount of HTML/CSS/JavaScript (python > js btw). I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend most of my free time working on.
+I'm a 16 year old developer who's been been programming for nearly 7 years. I code mostly in python, but I also know a fair ammount of HTML/CSS/JavaScript (python > js btw). I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend much of my free time working on.
 
-On a side note, following the discontinuation of discord.py and the new features + restrictions discord is imposing, I'm likely going to start over with the rewrite of Starboard-2. I'll finish Starboard-2, probably get slash commands and threads working (through a fork of discord.py like nextcord or pycord), and then start Starboard-3 using Hikari. I'll be doing a few things differently this time, feel free to check progress at https://github.com/TrigonDev.
+On a side note, following the discontinuation of discord.py and the new features + restrictions discord is imposing, I'm starting over with the rewrite of Starboard (Starboard-2) using hikari. You can check my progress at https://github.com/TrigonDev/Starboard.
 
 My Discord username is **Circuit#3397**. Note that I will **NOT** accept friend requests. If you wish to contact me, please join [this server](https://discord.gg/dGAzZDaTS9) first.
 
