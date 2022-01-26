@@ -19,5 +19,5 @@ My Discord username is **Circuit#3397**. Note that I will **NOT** accept friend 
 ## Other Projects
 Some projects I've contribued to.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lunarmagpie&repo=hikari-crescent&theme=dracula)](https://github.com/Lunarmagpie/hikari-crescent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magpie-dev&repo=hikari-crescent&theme=dracula)](https://github.com/magpie-dev/hikari-crescent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sigmanificient&repo=mCodingBot&theme=dracula)](https://github.com/Sigmanificient/mCodingBot)
