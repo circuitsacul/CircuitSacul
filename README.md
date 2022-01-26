@@ -16,4 +16,8 @@ My Discord username is **Circuit#3397**. Note that I will **NOT** accept friend 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=apgorm&theme=dracula)](https://github.com/TrigonDev/apgorm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=hikari-clusters&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
 
-I've also been spending time contributing to hikari-crescent, which is a command handler that seems very promising (way simpler than tanjun or lightbulb). You can check it out at https://github.com/Lunarmagpie/hikari-crescent.
+## Other Projects
+Some projects I've contribued to.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lunarmagpie&repo=hikari-crescent&theme=dracula)](https://github.com/Lunarmagpie/hikari-crescent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sigmanificient&repo=mCodingBot&theme=dracula)](https://github.com/Sigmanificient/mCodingBot)
