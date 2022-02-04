@@ -1,5 +1,5 @@
 ## About Me
-I'm a 16 year old developer who's been been programming for nearly 7 years. I code mostly in python, but I also know a fair ammount of HTML/CSS/JavaScript (python > js btw). I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend much of my free time working on.
+I'm a 17 year old developer who's been been programming for nearly 7 years. I code mostly in python, but I also know a fair ammount of HTML/CSS/JavaScript (python > js btw). I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend much of my free time working on.
 
 On a side note, following the discontinuation of discord.py and the new features + restrictions discord is imposing, I'm starting over with the rewrite of Starboard (Starboard-2) using hikari. You can check my progress at https://github.com/TrigonDev/Starboard.
 
