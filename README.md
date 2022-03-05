@@ -3,7 +3,7 @@ I'm a 17 year old developer who's been been programming for nearly 7 years. I co
 
 On a side note, following the discontinuation of discord.py and the new features + restrictions discord is imposing, I'm starting over with the rewrite of Starboard (Starboard-2) using hikari. You can check my progress at https://github.com/TrigonDev/Starboard.
 
-My Discord username is **Circuit#3397**. Note that I will **NOT** accept friend requests. If you wish to contact me, please join [this server](https://discord.gg/dGAzZDaTS9) first.
+My Discord username is `CircuitSacul#3397`. Note that I will **NOT** accept friend requests. If you wish to contact me, please join [this server](https://discord.gg/dGAzZDaTS9) first.
 
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
