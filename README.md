@@ -13,6 +13,8 @@ My Discord username is `CircuitSacul#3397`. Note that I will **NOT** accept frie
 ## Some of my projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Starboard&theme=dracula)](https://github.com/TrigonDev/Starboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Melody&theme=dracula)](https://github.com/TrigonDev/Melody)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Minigames&theme=dracula)](https://github.com/TrigonDev/Minigames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=GrammarBot&theme=dracula)](https://github.com/TrigonDev/GrammarBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=apgorm&theme=dracula)](https://github.com/TrigonDev/apgorm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=hikari-clusters&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=pycooldown&theme=dracula)](https://github.com/TrigonDev/pycooldown)
