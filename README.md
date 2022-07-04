@@ -1,7 +1,5 @@
 ## About Me
-I'm a 17 year old developer who's been been programming for nearly 7 years. I code mostly in python, but I also know a fair amount of HTML/CSS/JavaScript (python > js btw) and am learning Rust. I own the Discord bot called [Starboard](https://top.gg/bot/700796664276844612), which I spend much of my free time working on.
-
-My Discord username is `CircuitSacul#3397`. Note that I will **NOT** accept friend requests. If you wish to contact me, please join [this server](https://discord.gg/dGAzZDaTS9) first.
+Pythonista & Rustacean. Contact me [on Discord](https://discord.gg/dGAzZDaTS9)
 
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
