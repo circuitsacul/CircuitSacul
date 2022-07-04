@@ -1,5 +1,5 @@
 ## About Me
-Pythonista & Rustacean. Contact me [on Discord](https://discord.gg/dGAzZDaTS9)
+Pythonista & Rustacean. Contact me [on Discord](https://discord.gg/dGAzZDaTS9).
 
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
