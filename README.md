@@ -24,4 +24,4 @@ Pythonista & Rustacean. Contact me [on Discord](https://discord.gg/dGAzZDaTS9).
 Other projects I've contribued to.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magpie-dev&repo=hikari-crescent&theme=dracula)](https://github.com/magpie-dev/hikari-crescent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sigmanificient&repo=mCodingBot&theme=dracula)](https://github.com/Sigmanificient/mCodingBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcb-dev&repo=mCodingBot&theme=dracula)](https://github.com/mcb-dev/mCodingBot)
