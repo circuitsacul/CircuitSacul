@@ -3,25 +3,31 @@ Pythonista & Rustacean. Contact me [on Discord](https://discord.gg/dGAzZDaTS9).
 
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
-![Circuit's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Circuit's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ## Some of my Discord bots
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Starboard&theme=dracula)](https://github.com/TrigonDev/Starboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Melody&theme=dracula)](https://github.com/TrigonDev/Melody)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=Minigames&theme=dracula)](https://github.com/TrigonDev/Minigames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=GrammarBot&theme=dracula)](https://github.com/TrigonDev/GrammarBot)
+ - Starboard: Highly advanced starboard bot for Discord.
+   - v0: https://github.com/circuitsacul/starbot
+   - v1: https://github.com/circuitsbots/starboard
+   - v2: https://github.com/circuitsbots/starboard-2
+   - v3 (current): https://github.com/trigondev/starboard
+   - v4: https://github.com/circuitsacul/starboard-rs
+ - [Melody](https://github.com/trigondev/melody): A music bot.
+ - [Minigames](https://github.com/trigondev/minigames): Fun minigames.
+ - [GrammarBot](https://github.com/trigondev/grammarbot): Make everyone hate you.
 
 ## Some of my libraries
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=apgorm&theme=dracula)](https://github.com/TrigonDev/apgorm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=hikari-clusters&theme=dracula)](https://github.com/TrigonDev/hikari-clusters)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrigonDev&repo=pycooldown&theme=dracula)](https://github.com/TrigonDev/pycooldown)
+ - [apgorm](https://github.com/trigondev/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
+ - [hikari-clusters](https://github.com/trigondev/hikari-clusters): Clustering tool for Hikari.
+ - [pycooldown](https://github.com/trigondev/pycooldown): Fast cooldown implementation.
 
 ## Misc projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CircuitSacul&repo=IvyCraft&theme=dracula)](https://github.com/CircuitSacul/IvyCraft)
+ - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
 
-## Other Projects
-Other projects I've contribued to.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magpie-dev&repo=hikari-crescent&theme=dracula)](https://github.com/magpie-dev/hikari-crescent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcb-dev&repo=mCodingBot&theme=dracula)](https://github.com/mcb-dev/mCodingBot)
+## Projects I've Contributed To.
+ - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
+ - mCodingBot: The Discord bot for the mCoding Discord server.
+   - v0: https://github.com/mcb-dev/mCodingBot-discordpy
+   - v1: https://github.com/mcb-dev/mCodingBot-pincer
+   - v2: https://github.com/mcb-dev/mCodingBot
