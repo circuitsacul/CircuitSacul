@@ -31,3 +31,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
    - v0: https://github.com/mcb-dev/mCodingBot-discordpy
    - v1: https://github.com/mcb-dev/mCodingBot-pincer
    - v2: https://github.com/mcb-dev/mCodingBot
+   
+## Organizations
+ - [CircuitsBots](https://github.com/circuitsbots): Discord/Discord.py related code and bots (old version of discord.py)
+ - [TrigonDev](https://github.com/trigondev): Discord/Hikari related code and bots
