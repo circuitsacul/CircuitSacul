@@ -4,7 +4,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitSacul&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Circuit's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+[![CircuitSaculs's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some of my Discord bots
  - Starboard: Highly advanced starboard bot for Discord.
