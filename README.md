@@ -8,19 +8,19 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 
 ## Some of my Discord bots
  - Starboard: Highly advanced starboard bot for Discord.
-   - v0: https://github.com/circuitsacul/starbot
-   - v1: https://github.com/circuitsbots/starboard
-   - v2: https://github.com/circuitsbots/starboard-2
-   - v3 (current): https://github.com/trigondev/starboard
-   - v4: https://github.com/circuitsacul/starboard-rs
- - [Melody](https://github.com/trigondev/melody): A music bot.
- - [Minigames](https://github.com/trigondev/minigames): Fun minigames.
- - [GrammarBot](https://github.com/trigondev/grammarbot): Make everyone hate you.
+   - v0: https://github.com/circuitsacul/starboard-0
+   - v1: https://github.com/circuitsacul/starboard-1
+   - v2: https://github.com/circuitsacul/starboard-2
+   - v3 (current): https://github.com/circuitsacul/starboard-3
+   - v4: https://github.com/circuitsacul/starboard-4
+ - [Melody](https://github.com/circuitsacul/melody): A music bot.
+ - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
+ - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
 
 ## Some of my libraries
- - [apgorm](https://github.com/trigondev/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
- - [hikari-clusters](https://github.com/trigondev/hikari-clusters): Clustering tool for Hikari.
- - [pycooldown](https://github.com/trigondev/pycooldown): Fast cooldown implementation.
+ - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
+ - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): Clustering tool for Hikari.
+ - [pycooldown](https://github.com/circuitsacul/pycooldown): Fast cooldown implementation.
 
 ## Misc projects
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
@@ -31,7 +31,3 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
    - v0: https://github.com/mcb-dev/mCodingBot-discordpy
    - v1: https://github.com/mcb-dev/mCodingBot-pincer
    - v2: https://github.com/mcb-dev/mCodingBot
-   
-## Organizations
- - [CircuitsBots](https://github.com/circuitsbots): Discord/Discord.py related code and bots (old version of discord.py)
- - [TrigonDev](https://github.com/trigondev): Discord/Hikari related code and bots
