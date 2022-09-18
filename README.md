@@ -23,6 +23,10 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 
 ### Misc
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
+ 
+### WIP
+ - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
+ - [gitbook](https://github.com/circuitsacul/gitbook): An async API wrapper for gitbook's api.
 
 ### Contributed To
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
