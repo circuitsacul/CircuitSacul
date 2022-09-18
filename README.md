@@ -5,6 +5,12 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 [![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CircuitSacul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 [![CircuitSaculs's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=CircuitSacul&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tools
+ - Python: The first language I learned. I've been coding in Python for nearly 7 years.
+ - Rust: I've known Rust for less than a year, but I really love it. Currently rewritting Starboard in Rust.
+ - PostgreSQL: By far my favorite database to use. I even wrote [an orm](https://github.com/circuitsacul/apgorm) for it.
+
+## Projects
 ### Discord Bots
  - Starboard: Highly advanced starboard bot for Discord.
    - v0: https://github.com/circuitsacul/starboard-0
