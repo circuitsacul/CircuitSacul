@@ -32,7 +32,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
  
 ### WIP
  - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
- - [gitbook](https://github.com/circuitsacul/gitbook): An async API wrapper for gitbook's api.
+ - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
 ### Contributed To
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
