@@ -24,6 +24,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 
 ### Libraries
  - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
+ - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
  - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): Clustering tool for Hikari.
  - [pycooldown](https://github.com/circuitsacul/pycooldown): Fast cooldown implementation.
 
@@ -31,7 +32,6 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
  
 ### WIP
- - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
 ### Contributed To
