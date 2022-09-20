@@ -9,6 +9,13 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
  - Python: The first language I learned. I've been coding in Python for nearly 7 years.
  - Rust: I've known Rust for less than a year, but I really love it. Currently rewritting Starboard in Rust.
  - PostgreSQL: By far my favorite database to use. I even wrote [an orm](https://github.com/circuitsacul/apgorm) for it.
+ - Docker: I know the basics of Docker, and I'm using it in V4 of Starboard. It's nice to not have to clone & build the sourcee code to run my apps - I just have to pull the image.
+ - Git: I'm pretty good at using Git via GUIs (GitHub, GitHub Desktop, VSC, etc.), but I can use very basic features through the command line as well.
+
+I'm also learning (or planning to learn) a few tools:
+ - Haskell: Functional programming is an interesting concept. So far it seems simple enough, but I hardly know any right now.
+ - Go: I learned Rust, so I figured I would learn Go and see how they compared. So far I like Rust a lot more.
+ - C: Learning C is supposedly helpful for understanding how programming works on the lowest level, so why not.
 
 ## Projects
 ### Discord Bots
