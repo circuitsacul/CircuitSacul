@@ -1,4 +1,4 @@
-Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) or [Matrix](https://matrix.to/#/#circuitsacul-space:matrix.org).
+Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) or [Matrix](https://matrix.to/#/#circuitsacul-room:matrix.org).
 
 [![Wakatime Stats](https://wakatime.com/badge/user/3e0ed069-7498-4ab0-9b74-d5ac8e4a364b.svg)](https://wakatime.com/@3e0ed069-7498-4ab0-9b74-d5ac8e4a364b)
 
