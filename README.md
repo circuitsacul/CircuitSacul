@@ -38,6 +38,7 @@ I'm also learning (or planning to learn) a few tools:
 
 ### Misc
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
+ - [mockeval](https://github.com/circuitsacul/mockeval): Cursed but kinda cool lambdas.
  
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
