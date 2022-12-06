@@ -44,7 +44,7 @@ I'm also learning (or planning to learn) a few tools:
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
-### Contributed To
+### Maintainer For
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
  - mCodingBot: The Discord bot for the mCoding Discord server.
    - v0: https://github.com/mcb-dev/mCodingBot-discordpy
