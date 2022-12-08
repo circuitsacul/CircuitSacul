@@ -43,6 +43,7 @@ I'm also learning (or planning to learn) a few tools:
  
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
+ - [socketapp](https://github.com/circuitsacul/socketapp): A simple library for creating websocket-based apps.
 
 ### Maintainer For
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
