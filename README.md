@@ -24,7 +24,7 @@ I'm also learning (or planning to learn) a few tools:
    - v0: https://github.com/circuitsacul/starboard-0
    - v1: https://github.com/circuitsacul/starboard-1
    - v2: https://github.com/circuitsacul/starboard-2
-   - v3 (current): https://github.com/circuitsacul/starboard-3
+   - v3: https://github.com/circuitsacul/starboard-3
    - v4: https://github.com/circuitsacul/starboard-4
  - [Melody](https://github.com/circuitsacul/melody): A music bot.
  - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
