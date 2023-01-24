@@ -34,8 +34,7 @@ I'm also learning (or planning to learn) a few tools:
  - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
  - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
  - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): Clustering tool for Hikari.
- - [pycooldown](https://github.com/circuitsacul/pycooldown): Fast cooldown implementation.
- - [floodgate](https://github.com/circuitsacul/floodgate): Faster cooldown implementation. See [here](https://github.com/lunarmagpie/floodgate) for python bindings.
+ - [floodgate](https://github.com/circuitsacul/floodgate): Fast cooldown implementation. See [here](https://github.com/lunarmagpie/floodgate) for python bindings.
  - [socketapp](https://github.com/circuitsacul/socketapp): A simple library for creating websocket-based apps.
  - [mockeval](https://github.com/circuitsacul/mockeval): Cursed but kinda cool lambdas.
 
