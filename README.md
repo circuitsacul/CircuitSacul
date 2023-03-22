@@ -14,15 +14,8 @@ I also want to learn:
 
 ## Projects
 ### Discord Bots
- - Starboard: Highly advanced starboard bot for Discord.
-   - v0: https://github.com/circuitsacul/starboard-0
-   - v1: https://github.com/circuitsacul/starboard-1
-   - v2: https://github.com/circuitsacul/starboard-2
-   - v3: https://github.com/circuitsacul/starboard-3
-   - v4: https://github.com/circuitsacul/starboard-4
- - [Melody](https://github.com/circuitsacul/melody): A music bot.
+ - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
  - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
- - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
 
 ### Libraries
  - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
@@ -37,6 +30,15 @@ I also want to learn:
  
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
+
+### Archived, but cool
+ - Old Starboard versions
+   - v0: https://github.com/circuitsacul/starboard-0
+   - v1: https://github.com/circuitsacul/starboard-1
+   - v2: https://github.com/circuitsacul/starboard-2
+   - v3: https://github.com/circuitsacul/starboard-3
+ - [Melody](https://github.com/circuitsacul/melody): A music bot.
+ - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
 
 ### Maintainer For
  - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
