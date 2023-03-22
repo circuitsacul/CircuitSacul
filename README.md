@@ -29,8 +29,8 @@ I also want to learn:
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
 
 ### Maintainer For
- - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
- - mCodingBot: The Discord bot for the mCoding Discord server.
+ - [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent): Command handler for Hikari.
+ - [mCodingBot](https://github.com/mcb-dev/mCodingBot): The Discord bot for the mCoding Discord server.
 
 ## Other Projects
 ### WIP
