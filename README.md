@@ -44,6 +44,3 @@ I also want to learn:
    - v3: https://github.com/circuitsacul/starboard-3
  - [Melody](https://github.com/circuitsacul/melody): A music bot.
  - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
-   - v0: https://github.com/mcb-dev/mCodingBot-discordpy
-   - v1: https://github.com/mcb-dev/mCodingBot-pincer
-   - v2: https://github.com/mcb-dev/mCodingBot
