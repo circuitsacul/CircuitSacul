@@ -12,7 +12,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 I also want to learn:
  - Go: I learned Rust, so I figured I would learn Go and see how they compared. So far I like Rust a lot more. The lack of generics seems like a pain.
 
-## Projects
+## Active Projects
 ### Discord Bots
  - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
  - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
@@ -27,11 +27,16 @@ I also want to learn:
 
 ### Misc
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
- 
+
+### Maintainer For
+ - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
+ - mCodingBot: The Discord bot for the mCoding Discord server.
+
+## Other Projects
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
-### Archived, but cool
+### Archived
  - Old Starboard versions
    - v0: https://github.com/circuitsacul/starboard-0
    - v1: https://github.com/circuitsacul/starboard-1
@@ -39,10 +44,6 @@ I also want to learn:
    - v3: https://github.com/circuitsacul/starboard-3
  - [Melody](https://github.com/circuitsacul/melody): A music bot.
  - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
-
-### Maintainer For
- - [hikari-crescent](https://github.com/magpie-dev/hikari-crescent): Command handler for Hikari.
- - mCodingBot: The Discord bot for the mCoding Discord server.
    - v0: https://github.com/mcb-dev/mCodingBot-discordpy
    - v1: https://github.com/mcb-dev/mCodingBot-pincer
    - v2: https://github.com/mcb-dev/mCodingBot
