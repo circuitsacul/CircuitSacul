@@ -35,6 +35,7 @@ I also want to learn:
 ## Other Projects
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
+ - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
 
 ### Archived
  - Old Starboard versions
