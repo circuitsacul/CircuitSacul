@@ -22,6 +22,7 @@ I also want to learn:
  - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
  - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): Clustering tool for Hikari.
  - [floodgate](https://github.com/circuitsacul/floodgate): Fast cooldown implementation. See [here](https://github.com/lunarmagpie/floodgate) for python bindings.
+ - [regex-rs](https://github.com/circuitsacul/regex-rs): Python bindings for the rust regex crate.
  - [socketapp](https://github.com/circuitsacul/socketapp): A simple library for creating websocket-based apps.
  - [mockeval](https://github.com/circuitsacul/mockeval): Cursed but kinda cool lambdas.
 
@@ -35,7 +36,6 @@ I also want to learn:
 ## Other Projects
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
- - [regex-rs](https://github.com/circuitsacul/regex-rs): Python bindings for the rust regex crate.
  - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
 
 ### Archived
