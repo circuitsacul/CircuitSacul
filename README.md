@@ -25,6 +25,7 @@ I also want to learn:
  - [regex-rs](https://github.com/circuitsacul/regex-rs): Python bindings for the rust regex crate.
  - [socketapp](https://github.com/circuitsacul/socketapp): A simple library for creating websocket-based apps.
  - [mockeval](https://github.com/circuitsacul/mockeval): Cursed but kinda cool lambdas.
+ - [nullable](https://github.com/circuitsacul/nullable): Typed Null singleton for Python
 
 ### Misc
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
