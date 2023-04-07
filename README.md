@@ -16,6 +16,7 @@ I also want to learn:
 ### Discord Bots
  - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
  - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
+ - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
 
 ### Libraries
  - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
@@ -38,7 +39,6 @@ I also want to learn:
 ## Other Projects
 ### WIP
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
- - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
 
 ### Archived
  - Old Starboard versions
