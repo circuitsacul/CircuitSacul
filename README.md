@@ -9,9 +9,6 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
  - Docker: I know the basics of Docker, and I'm using it in V4 of Starboard. It's nice to not have to clone & build the source code to run my apps - I just have to pull the image.
  - Git: I'm pretty good at using Git via GUIs (GitHub, GitHub Desktop, VSC, etc.), but I can use very basic features through the command line as well.
 
-I also want to learn:
- - Go: I learned Rust, so I figured I would learn Go and see how they compared. So far I like Rust a lot more. The lack of generics seems like a pain.
-
 ## Active Projects
 ### Discord Bots
  - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
