@@ -35,6 +35,7 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 
 ## Other Projects
 ### WIP
+ - [CodeRunner](https://github.com/circuitsacul/coderunner): A code running bot for discord.
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
 ### Archived
