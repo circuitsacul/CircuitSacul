@@ -12,8 +12,9 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 ## Active Projects
 ### Discord Bots
  - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
- - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
+ - [io](https://github.com/circuitsacul/io): A code running bot for discord.
  - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
+ - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
 
 ### Libraries
  - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
@@ -35,7 +36,6 @@ Pythonista & Rustacean. Contact me on [Discord](https://discord.gg/dGAzZDaTS9) o
 
 ## Other Projects
 ### WIP
- - [CodeRunner](https://github.com/circuitsacul/coderunner): A code running bot for discord.
  - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
 
 ### Archived
