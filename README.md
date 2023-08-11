@@ -4,8 +4,9 @@
 
 ## Tools
  - Python: The first language I learned. I've been coding in Python for nearly 7 years.
- - Rust: I've known Rust for less than a year, but I really love it. I also rewrote Starboard in Rust.
- - PostgreSQL: By far my favorite database to use. I even wrote [an orm](https://github.com/circuitsacul/apgorm) for it.
+ - Rust: My favorite language to use, and what I work with the most.
+ - Typescript: It's better than javascript, at least. I use it to build websites and mobile apps (with react native).
+ - PostgreSQL: My go-to any time I need a database. I even wrote [an orm](https://github.com/circuitsacul/apgorm) for it.
  - Docker: I know the basics of Docker, and I'm using it in V4 of Starboard. It's nice to not have to clone & build the source code to run my apps - I just have to pull the image.
  - Git: I'm pretty good at using Git via GUIs (GitHub, GitHub Desktop, VSC, etc.), but I can use very basic features through the command line as well.
 
