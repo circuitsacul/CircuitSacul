@@ -49,5 +49,5 @@
  - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
 
 ## Future Ideas
- - discord http/gateway queue with cache
+ - discord http/gateway proxy with cache
  - python bindings for twilight, hikari extension that utilizes these bindings
