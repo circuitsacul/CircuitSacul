@@ -47,3 +47,7 @@
    - v3: https://github.com/circuitsacul/starboard-3
  - [Melody](https://github.com/circuitsacul/melody): A music bot.
  - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
+
+## Future Ideas
+ - discord http/gateway queue with cache
+ - python bindings for twilight, hikari extension that utilizes these bindings
