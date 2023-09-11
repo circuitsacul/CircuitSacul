@@ -35,11 +35,10 @@
  - [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent): Command handler for Hikari.
  - [mCodingBot](https://github.com/mcb-dev/mCodingBot): The Discord bot for the mCoding Discord server.
 
-## Other Projects
-### WIP
- - [gitbook](https://github.com/circuitsacul/gitbook): An async wrapper for gitbook's API.
+## Currently working on
+ - A dashboard for starboard (https://github.com/CircuitSacul/Starboard-4/pull/344)
 
-### Archived
+## Archived
  - Old Starboard versions
    - v0: https://github.com/circuitsacul/starboard-0
    - v1: https://github.com/circuitsacul/starboard-1
