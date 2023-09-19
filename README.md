@@ -39,6 +39,12 @@
  - A dashboard for starboard (https://github.com/CircuitSacul/Starboard-4/pull/344)
  - A conference-management app (https://github.com/covfamikoi/rpevents)
 
+## Things I want to do
+ - discord http/gateway proxy with cache
+ - python bindings for twilight, hikari extension that utilizes these bindings
+ - learn bevy and make a game
+ - learn go
+
 ## Archived
  - Old Starboard versions
    - v0: https://github.com/circuitsacul/starboard-0
@@ -47,7 +53,3 @@
    - v3: https://github.com/circuitsacul/starboard-3
  - [Melody](https://github.com/circuitsacul/melody): A music bot.
  - [GrammarBot](https://github.com/circuitsacul/grammarbot): Make everyone hate you.
-
-## Future Ideas
- - discord http/gateway proxy with cache
- - python bindings for twilight, hikari extension that utilizes these bindings
