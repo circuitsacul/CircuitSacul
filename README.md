@@ -38,6 +38,7 @@
 ## Currently working on
  - A dashboard for starboard (https://github.com/CircuitSacul/Starboard-4/pull/344)
  - A conference-management app (https://github.com/covfamikoi/rpevents)
+ - A scriptable discord bot (https://github.com/circuitsacul/rhaibot)
 
 ## Things I want to do
  - discord http/gateway proxy with cache
