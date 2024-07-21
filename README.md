@@ -1,5 +1,4 @@
-19yo Pythonista & Rustacean. Contact me on [my Discord Server](https://discord.gg/dGAzZDaTS9), [Signal](https://signal.me/#eu/PZrQs1wzUoDjfhinlLCfLaoeGI5zT6Ban6RC10BG2W9em+/HQZ9IULwFPZMUa09V), [my Matrix Room](https://matrix.to/#/#circuitsacul-room:matrix.org), or [Telegram](https://t.me/circuitsacul). You will get fastest responses on Discord or Signal.
-
+19yo Pythonista & Rustacean. Contact me on [matrix](https://matrix.to/#/#circuitsaculs-space:matrix.org).
 ## Tools
  - Python: The first language I learned. I've been coding in Python for nearly 7 years.
  - Rust: My favorite language to use, and what I work with the most.
