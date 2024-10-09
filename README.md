@@ -26,7 +26,6 @@
 
 ### Misc
  - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
- - [minecraft](https://github.com/circuitsacul/minecraft): My rust/bevy/valence playground for a minecraft server.
 
 ### Maintainer For
  - [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent): Command handler for Hikari.
