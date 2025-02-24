@@ -1,4 +1,4 @@
-19yo Pythonista & Rustacean. Contact me on [matrix](https://matrix.to/#/#circuitsaculs-space:matrix.org).
+19yo Pythonista & Rustacean. Contact me on [signal](https://signal.me/#eu/b01EnLShB4rhSnh202Uq4RXMTOmZn4U_3zLifMSKunzaaxMI9WBP14CsYvHNMStg).
 ## Tools
  - Python: The first language I learned. I've been coding in Python for nearly 7 years.
  - Rust: My favorite language to use, and what I work with the most.
